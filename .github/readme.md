@@ -2,7 +2,7 @@
 
 https://wordpress.org/plugins/blank/ — I wanted to enable PHP in this plugin, which I think would make it far more useful. However, due to security concerns (which I understand), the WordPress admins are simply no longer accepting such features in new plugin submissions, so it had to be removed.
 
-Of course, you, the individual user, has every right to add the functionality back in if you so wish.
+Of course, you, the individual user, has every right to manually add the functionality back in if you so wish.
 
 Simply paste the following at the bottom of *blank.php*:
 
